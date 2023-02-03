@@ -1,14 +1,14 @@
 /******************************************************************************
 
 File: ToThePoint.cpp
-Author: ME
-Date: 1/22/2023
+Author: Yezen Hijazin
+Date: Aug 15th, 2022
+
+Description: Prints out a txt file and shows how often a word is in the file.
 
 
 *******************************************************************************/
 
-#include <iostream>
-#include "code.h"
 #include <iomanip>  
 #include <iostream>
 #include <iomanip>

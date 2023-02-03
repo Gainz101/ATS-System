@@ -11,9 +11,6 @@ the top contenders.
 *******************************************************************************/
 
 #include <iostream>
-#include "code.h"
-#include <iomanip>  
-#include <iostream>
 #include <iomanip>
 #include <string>
 #include <sstream>
@@ -36,14 +33,13 @@ int main()
     int k=0;
     int wordCount =0;
     bool empty=false;
-    //string resumes[3]={"a.txt", "perfect2.txt", "fantastic.txt"};
-    string resumes[1]={"RecruitiFi.txt"};
+    string resumes[3]={"a.txt", "perfect2.txt", "fantastic.txt"};
     vector<string> keyResumes;
     bool done=false;
     // TODO: prompt until both the file and the contained data are valid
     cout<<"Enter Key Word: ";
     cin >> KeyWord;
-    for(int i=0;i<1;i++){//goes through all resumes CHANGE SIZE BASED OFF NUMBERS
+    for(int i=0;i<3;i++){//goes through all resumes CHANGE SIZE BASED OFF NUMBERS
         fileName=resumes[i];
         while(true){
             try{
@@ -118,7 +114,7 @@ int main()
     }
     
     cout<<"Key resumes are: "<<endl;
-    for(int i =0;i<1;i++){//CHANGE SIZE BASED OFF NUMBER OF PDF
+    for(int i =0;i<3;i++){//CHANGE SIZE BASED OFF NUMBER OF PDF
         cout<<keyResumes[i]<<endl;
     }
 
