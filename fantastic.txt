@@ -1,0 +1,112 @@
+SUMMARY
+Electrical Engineer with 7+ years of diverse experience in RF, Microwave, and Optical design,
+implementation, verification, and manufacturing at the board and system level. Goal is to use
+these experiences to find a position as an RF Engineer in the Dallas / Fort Worth area.
+PROFESSIONAL EXPERIENCE
+Current Employer, 2007-Current
+RF Design Engineer – RF Over Fiber Systems (May 07 – Current)
+ Responsible for the Design, Manufacture, and Verification of RF-Optical-RF Links up to
+22 GHz
+o Specified, designed, implemented, and verified a secure IF and pulsed RF
+distribution system that allowed a government customer to send signals from a
+control room to roof-mount antennas.
+o Lead engineer on several antenna remoting systems for defense contractors that
+required RF and optical AGC loops as part of various RF-Optical-RF paths, as
+well as a microcontroller and ethernet device to report health information via
+SNMP or telnet.
+o Created firmware requirements, devised system test procedures, identified test
+equipment requirements, authored user manuals, and supported customers after
+systems were deployed as part of the above projects.
+o Evaluated and tested the validity of customer requests for new systems. This
+included recommending new board designs, adjusting the frequency response or
+other parameters of existing designs, changing components, and investigating
+unique specifications and test requirements.
+o Current projects include simulating AGC loops using EDA software and
+designing a second and third order predistorter to reduce intermodulation.
+Harris Microwave / Harris Stratex Networks – San Antonio, Texas, 2003-2007
+Product Engineer 6-38 GHz Point-to-Point Microwave Radios (Aug 05 – May 07)
+ Led two Work Cell Teams responsible for sustaining the production of a Frequency
+Synthesizer / Frequency Multiplier Card and an IF Mixer Card
+o Analyzed test station data to identify and correct design issues with circuits,
+software, test stations, suppliers, etc. on a high volume production line.
+o Identified and corrected issues from post-SMT validation testing.
+ Served as team lead for a DOE to eliminate Flux contamination underneath VCOs on
+PLL circuits. The DOE resulted in a change in the PCB build process that drastically
+decreased system sync losses caused by phase noise issues over temperature
+o Identified the need to individually test each PLL over temperature. Established
+test requirements for the PLLs and managed the test station build and installation.
+o Used a year of lessons learned to develop a new model of the IF Mixer card that
+improved functional test yield from 75% to 95%.
+ Modified a passband ripple test with poor yield due to the calibration
+capabilities of the VNA used in the test station.
+Support Engineer 6-38 GHz Point-to-Point Microwave Radios (Aug 04 – Aug 05)
+ Validated the technical correctness of all engineering change orders from the component
+through the system level prior to introduction to volume manufacturing
+ Acted as Transition Manager for changing PCBA Contract Manufacturers on an entire
+high volume RF product line
+o Received the Harris Excellence Award for individual contributions to the
+success of this project.
+
+NPI Value Engineer 6-38 GHz Point-to-Point Microwave Radios (Aug 03 – Aug 04)
+ Led numerous pilots to introduce enhancements, redesigns, and cost reductions to
+existing and new products into high volume manufacturing
+ Led DFx efforts on new digital and RF designs
+
+Motorola – Global Telecom Solutions Sector – Fort Worth, Texas, 1997-2001
+RF Development Engineer Cellular Base Station Development Team (June 99 – Dec 01)
+
+
+
+
+
+Owned several active and passive RF designs used in 800 MHz to 1.9 GHz CDMA
+Cellular Base Stations
+o Created and simulated designs using EESOF, modified layouts using Mentor
+Graphics, created prototype boards, oversaw proto and production builds,
+identified test requirements, developed manufacturing tests, evaluated
+performance trends using Six Sigma analysis, and troubleshot defects.
+o Designs included PCB based RF splitters, combiners, and active switching
+matrices as well as waveguide directional couplers, duplexers, and filters.
+Evaluated low-loss PCB materials and their effects on the designs referenced above
+Led a team that developed system-level RF performance tests to ensure that thirdgeneration WCDMA base stations met 3GPP standards
+
+RF Engineering Intern Cellular Base Station Development Team (Summer of 97 & 98)
+
+
+
+
+
+
+
+
+Developed and implemented a test fixture backplane to automate testing of an RF
+switching matrix consisting of several active RF switches and transmission lines
+
+TECHNICAL SUMMARY
+Highly proficient with RF test equipment including network analyzers, signal generators,
+spectrum analyzers, CDMA test sets, and power meters
+Experienced with optical test equipment including optical power meters, wavelength meters,
+optical spectrum analyzers, and optical network analyzers
+Broad knowledge of RF, microwave, and optical circuit and system level performance
+parameters and design
+Daily interaction with a wide range of components such as mixers, filters, oscillators, DACs,
+ADCs, duplexers, amplifiers, attenuators, detectors, laser, photodiodes, Ethernet devices, etc.
+Computer experience includes circuit, board, and system level schematic, simulation, and
+layout tools ADS, Orcad, Microwave Office, AppCAD, and Mentor Graphics; Statistical
+analysis software JMP, document control software Agile
+EDUCATION
+Georgia Institute of Technology
+Master of Science in Electrical and Computer Engineering, August 2003
+Bachelor of Electrical Engineering, with Highest Honors, June 1999
+
+
+
+
+
+Emphasis: RF/Microwave Circuits and Systems, Telecommunications Theory
+Cumulative (Combined) GPA: 3.7/4.0
+Graduate Coursework included Microwave Design, Electronic Oscillators, Frequency
+Synthesizers, Satellite Communications Systems, and Wireless IC Design
+Received an Outstanding Teaching Assistant Award for the School of ECE in 2003
+
+

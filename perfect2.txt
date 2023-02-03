@@ -1,0 +1,96 @@
+CODY KESTIGIAN
+214 GARFIELD PLACE, APT 3, BROOKLYN NY 11215 • (860) 614-5065 • MKESTIGIAN@GMAIL.COM
+
+EDUCATION
+Bachelor of Arts – Mathematics, English, East Asian Studies
+Wesleyan University
+
+
+August 2002 - May 2006
+Middletown, CT
+
+Focus on abstract algebra, 19th C. American literature, Japanese language and literature
+
+RELEVANT WORK EXPERIENCE
+Head of Data
+April 2016 – November 2016
+Margaritaville Digital
+New York, NY
+• Planned and rolled out an analytics strategy to extract, parse, and analyze data across Margaritaville’s challenging
+longtail of licensee partners – quantifying casino wifi usage, concert sweepstakes, cruise bookings, and frozen
+shrimp sales
+• Monitored and surfaced insight on audience engagement through administratorship of our cross-partner Google
+Analytics and Salesforce ExactTarget platforms
+• Supplemented our ExactTarget email operations with “TARPON”, a custom database warehouse for cleaning and
+reporting on our data built on Amazon S3, RDS, and EC2
+• Tapped into and processed realtime media feed data from Facebook, Instagram, and Twitter to equip the editorial
+team with breaking viral story reporting and influencer analysis
+Analytics Developer / Director of Strategic Analytics
+February 2014 – February 2016
+Jackthreads /Thrillist Media Group
+New York, NY
+• Led a team of analysts in understanding, optimizing, and surfacing insight from all of TMG’s disparate datasetsecommerce databases, Google Analytics tables, email blast logs, S3 buckets, and advertising APIs
+• Grew the analytics practice from an Excel-driven reporting group into a robust and nimble data science team using
+R, Python, and SQL
+•Helped support Thrillist’s unique “content plus commerce” model with creative data driven tools and insight;
+providing editors, ad sales, and clothing buyers with previously unobtainable third party data, like Instagram
+trends, Foursquare brand penetration, Yelp reviews, and news alerts
+Manager of Analytics
+August 2013 – February 2014
+Xaxis
+New York, NY
+• Served as face of company analytics – worked directly with priority clients to oversee ongoing measurement and
+analysis of their online campaigns across a dozen networks and exchanges
+• Guided a team of 8 analysts and associates in planning, optimizing, and delivering in full Xaxis’ largest monthly
+revenue pipelines to date
+• Developed blueprint for analytics reporting automation, delivering a complete “auto-pilot” reporting for a QSR
+client’s quarterly campaigns. Campaign delivered in full with daily reporting and margin optimization, outpacing
+manual reporting by fivefold
+Manager of Analytics and Yield Optimization
+July 2011 – May 2013
+Jumptap
+New York, NY
+• Worked with executive team to establish organization-wide KPIs in order to facilitate consistent and transparent
+business development – growing revenue, improving publisher fill rates, and efficiently increasing margins
+• Guided account management teams in improving existing online advertising CTR, CPA, and CPC optimization
+strategies by improving breadth of data analyzed and the speed with which it can be acted upon. Wrote automated
+SQL interface and regression analysis to migrate operations team from manual, slow, and imprecise Excel use
+• Led process of funneling Jumptap’s 10+ discrete data sources into simplified OLAP reporting solution to respond
+to organization-wide ad hoc query needs
+
+CODY KESTIGIAN
+214 GARFIELD PLACE, APT 3, BROOKLYN NY 11215 • (860) 614-5065 • MKESTIGIAN@GMAIL.COM
+
+Manager of Analytics
+Undertone
+
+Jan 2009 – July 2011
+New York, NY
+
+• As first hire in the Performance Analytics department, oversaw the initial quantification and explanation of all
+Undertone server data (~ 18bn delivered impressions) across all available dimensions (e.g., website sections,
+browsers, days of week, demographic profiles). Dived deep into one year of delivery data to explain to internal
+teams what we do know, what we don’t know, and how certain we are about making decisions.
+• Managed performance team in improving existing online advertising optimization strategies by improving
+breadth of data analyzed and the speed with which it can be acted upon. Migrated operations team from heavy use
+of manual Excel analysis to automated SQL reports and programmatic regression analysis in conjunction with a
+streamlined implementation interface.
+• Created best practices for analyzing the purchase and usage of third-party data (Bluekai, Almondnet, Targus,
+Quantcast) and media. Spliced external datasets with in-house and freely available Census data for wider, and more
+precise, user targeting and lookalike profiling.
+• Collaborated directly with technology team to improve Undertone’s proprietary ad server and implemented
+systems for network-wide global optimization. Using combination of Python and Ruby, built unit tests and
+simulations for evaluating a number of delivery and optimization algorithms.
+Senior Analyst, Research & Development
+MarketStance
+
+July 2006– Jan 2009
+New York, NY
+
+TECHNICAL SKILLS
+• Object-oriented programming languages (Python, JavaScript, Java, Perl, Ruby, PHP)
+• Working, developing, and troubleshooting in Windows, Mac, Linux/Unix environments
+• Statistical analysis packages (R, Matplotlib, Pandas, STATA, SAS, Mathematica, GLPK)
+• Databases and OLAP (MySQL, MSSQL, Postgres, Greenplum, Hadoop, MongoDB, AWS Redshift, Google BigQuery)
+
+
